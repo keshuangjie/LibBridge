@@ -24,7 +24,7 @@ public class LibConfig {
     private void init() {
         entrys = new HashMap<>();
         entrys.put(LibIds.DEMO1.getId(), "com.lib.bridge.demo.DemoEntry");
-        entrys.put(LibIds.DEMO2.getId(), "com.lib.bridge.demo.DemoEntry");
+        entrys.put(LibIds.DEMO2.getId(), "com.example.sample.SampleEntry");
     }
 
     public String queryLibEntryClassName(String id) {

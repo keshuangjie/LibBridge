@@ -7,8 +7,8 @@ package com.lib.bridge;
  */
 public enum LibIds {
 
-    DEMO1("com.lib.bridge.demo1"),
-    DEMO2("com.lib.bridge.demo2");
+    DEMO1("com.lib.bridge.demo"),
+    DEMO2("com.example.sample");
 
     private String id;
 
